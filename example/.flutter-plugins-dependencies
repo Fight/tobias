@@ -1,1 +1,1 @@
-{"info":"This is a generated file; do not edit or check into version control.","plugins":{"ios":[{"name":"tobias","path":"/Users/max/Downloads/tobias/","dependencies":[]}],"android":[{"name":"tobias","path":"/Users/max/Downloads/tobias/","dependencies":[]}],"macos":[],"linux":[],"windows":[],"web":[]},"dependencyGraph":[{"name":"tobias","dependencies":[]}],"date_created":"2020-05-12 22:06:18.103442","version":"1.17.0"}
+{"_info":"// This is a generated file; do not edit or check into version control.","dependencyGraph":[{"name":"tobias","dependencies":[]}]}
